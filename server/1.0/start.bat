@@ -1,0 +1,1 @@
+java -jar fgnb-server-1.0-SNAPSHOT.jar --db-url=127.0.0.1:3306/ui_dev4 --db-username=root --db-password=root
